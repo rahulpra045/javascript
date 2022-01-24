@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    padding: 3%;
+    color: whitesmoke;
+}
+.red{
+    background-color: red;
+    padding: 4%;
+}
+.blue{
+    background-color: blue;
+    padding: 4%;
+}
+.form-group{
+    padding: 6px;
+}
+.white{
+    background-color: whitesmoke;
+    color: black;
+}
